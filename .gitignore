@@ -1,0 +1,4 @@
+# Secret Key file
+./todo/secret_keys.py
+# Py chache
+__pycache__/
